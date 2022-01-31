@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: #A1B57D;
+}
+body{
+	background-color:#A1B57D;
+	color: #000;
+	font-family: sans-serif;
+}
+
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 18px;
+}
+h1{
+	text-align: center;
+	padding-bottom: 2rem;
+	font-weight: bold;
+	font-size: 4rem;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: #A1B57D;
+}
+.navbar-brand{
+font-size: 30px;	
+}
